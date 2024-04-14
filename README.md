@@ -1,0 +1,1 @@
+Executed the seamless transition of a comprehensive web application to AWS, optimizing performance and security by enforcing IAM controls for 50+ users, encrypting 80% of data with KMS, and increasing threat detection by 30% through GuardDuty, leveraging AWS services like EC2, S3, and CloudTrail.
